@@ -1,0 +1,67 @@
+h1{
+	font-size:80px;
+	font-family:"Brush Script MT";
+	text-align: center;
+	color:#C17D70;
+	
+}
+h2{
+	font-size:28px;
+	font-family:"Britannic Bold";
+	text-align: left;
+	color: 	#36454f;
+	margin-top:-30px;
+	
+}
+
+p{
+color:#000;
+font-size:20px;
+font-family: 'Nunito', sans-serif;
+}
+
+body{
+	margin: 5%;
+	padding:0;
+
+}
+fieldset{
+	width: 80%;
+   /*outline: 1px solid #000;*/
+    margin-left: auto;
+	margin-right: auto;
+	border-radius:7px;
+	margin-top:30;
+	background: white;
+	box-shadow: 5px 5px  	#36454f;
+	
+
+}
+#menu ul li{
+    padding:22px;
+    margin:0px;
+    list-style:none;
+	display: inline-block;
+	color: #ffffff;
+	text-decoration: none;
+	font-family: 'Nunito', sans-serif;
+}
+
+
+
+ul.navegation{
+	position: fixed;
+	margin-top:-67px;
+	margin-left:-69px;
+margin-right:0;
+background-color: 	#ffad60;	
+	border-radius:7px;
+	width:109%;
+	height:10%;
+	
+}
+
+
+
+
+
